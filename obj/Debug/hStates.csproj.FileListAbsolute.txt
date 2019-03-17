@@ -1,0 +1,11 @@
+/Users/dannygallagher/RiderProjects/hStates/bin/Debug/hStates.dll
+/Users/dannygallagher/RiderProjects/hStates/bin/Debug/hStates.pdb
+/Users/dannygallagher/RiderProjects/hStates/bin/Debug/RSG.Promise.dll
+/Users/dannygallagher/RiderProjects/hStates/bin/Debug/UnityEngine.dll
+/Users/dannygallagher/RiderProjects/hStates/bin/Debug/UnityEngine.dll.mdb
+/Users/dannygallagher/RiderProjects/hStates/bin/Debug/UnityEngine.xml
+/Users/dannygallagher/RiderProjects/hStates/obj/Debug/hStates.csprojAssemblyReference.cache
+/Users/dannygallagher/RiderProjects/hStates/obj/Debug/hStates.csproj.CoreCompileInputs.cache
+/Users/dannygallagher/RiderProjects/hStates/obj/Debug/hStates.csproj.CopyComplete
+/Users/dannygallagher/RiderProjects/hStates/obj/Debug/hStates.dll
+/Users/dannygallagher/RiderProjects/hStates/obj/Debug/hStates.pdb

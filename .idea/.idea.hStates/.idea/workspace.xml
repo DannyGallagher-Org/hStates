@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5cd02927-17d3-49c5-b6e4-2c2f29554f61" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.hStates/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.hStates/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/UnityEngine.dll.mdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/UnityEngine.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/hStates.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/hStates.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hStates.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/hStates.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/hStates.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/hStates.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/hStates.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/hStates.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/hStates.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/hStates.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/hStates.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/hStates.dll" afterDir="false" />
-    </list>
+    <list default="true" id="5cd02927-17d3-49c5-b6e4-2c2f29554f61" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,7 +206,7 @@
       <option name="presentableId" value="Default" />
       <updated>1552646099723</updated>
       <workItem from="1552646101594" duration="880000" />
-      <workItem from="1552861240816" duration="649000" />
+      <workItem from="1552861240816" duration="894000" />
     </task>
     <task id="LOCAL-00001" summary="hStates Basics">
       <created>1552646421107</created>
@@ -229,7 +219,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1529000" />
+    <option name="totallyTimeSpent" value="1774000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">

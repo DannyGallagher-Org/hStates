@@ -1,10 +1,6 @@
-﻿using UnityEngine;
-
-// ReSharper disable SuspiciousTypeConversion.Global
-
 namespace hStates
 {
-    public sealed class StateMachine : MonoBehaviour
+    public class StateMachine
     {
         #region delegates
         public delegate void StateChanged(IState state);
@@ -17,21 +13,21 @@ namespace hStates
 	
         #region properties
         public IState CurrentState { get; set; }
-
         #endregion
-	
+        
         #region methods
-        public void Update()
-        {
-            (CurrentState as IUpdateable)?.Update();
-        }
+        public void Update() => (CurrentState as IUpdateable)?.Update();
 
-        private void LateUpdate()
+        public void LateUpdate()
         {
             if (CurrentState == default(IState)) 
                 return;
+            
+            (CurrentState as IUpdateable)?.LateUpdate();
 			
-            if (!CurrentState.CanTransition()) return;
+            if (!CurrentState.CanTransition()) 
+                return;
+            
             var nextState = CurrentState.NextState();
             ChangeState(nextState);
         }
@@ -47,7 +43,7 @@ namespace hStates
             enterState?.OnEnter();
         }
 	
-        private void OnApplicationPause(bool paused)
+        public void OnApplicationPause(bool paused)
         {
             if(!paused)
                 return;

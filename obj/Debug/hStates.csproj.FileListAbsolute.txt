@@ -8,3 +8,6 @@
 /Users/dannygallagher/RiderProjects/hStates/obj/Debug/hStates.dll
 /Users/dannygallagher/RiderProjects/hStates/obj/Debug/hStates.pdb
 /Users/dannygallagher/RiderProjects/hStates/bin/Debug/UnityEditor.dll
+/Users/dannygallagher/RiderProjects/hStates/bin/Debug/nunit.framework.dll
+/Users/dannygallagher/RiderProjects/hStates/bin/Debug/nunit.framework.pdb
+/Users/dannygallagher/RiderProjects/hStates/bin/Debug/nunit.framework.xml

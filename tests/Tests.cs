@@ -61,21 +61,18 @@ namespace tests
         }
         
         [Test]
-        public void PushState()
+        public void PushAndPop()
         {
-//            throw new NotImplementedException();
-        }
-        
-        [Test]
-        public void PopState()
-        {
-//            throw new NotImplementedException();
-        }
-        
-        [Test]
-        public void PushStateKeepState()
-        {
-//            throw new NotImplementedException();
+            var stateMachine = new StateMachine();
+            var testStateB = new TestStateBForPushing();
+            var testStateA = new TestStateA();
+            
+            stateMachine.ChangeState(testStateA);
+            Assert.True(stateMachine.CurrentState == testStateA);
+            stateMachine.PushState(testStateB);
+            Assert.True(stateMachine.CurrentState == testStateB);
+            stateMachine.PopState();
+            Assert.True(stateMachine.CurrentState == testStateA);
         }
     }
 }

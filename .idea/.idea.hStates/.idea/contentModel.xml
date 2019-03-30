@@ -8,6 +8,7 @@
       <e p="hStates.csproj" t="IncludeRecursive" />
       <e p="hStates.sln" t="IncludeFlat" />
       <e p="IEnterState.cs" t="Include" />
+      <e p="IInjectable.cs" t="Include" />
       <e p="ILoadSceneBeforeEnterState.cs" t="Include" />
       <e p="IPausable.cs" t="Include" />
       <e p="IState.cs" t="Include" />
@@ -18,6 +19,7 @@
       <e p="Properties" t="Include">
         <e p="AssemblyInfo.cs" t="Include" />
       </e>
+      <e p="ServiceLocator.cs" t="Include" />
       <e p="StateMachine.cs" t="Include" />
       <e p="StateMachineMonoBehaviour.cs" t="Include" />
       <e p="tests" t="IncludeRecursive">
@@ -29,6 +31,7 @@
         <e p="Tests.cs" t="Include" />
         <e p="tests.csproj" t="IncludeRecursive" />
         <e p="TestStateA.cs" t="Include" />
+        <e p="TestStateBForPushing.cs" t="Include" />
       </e>
     </e>
   </component>

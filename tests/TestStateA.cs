@@ -1,3 +1,4 @@
+using System;
 using hStates;
 
 namespace tests
@@ -8,6 +9,13 @@ namespace tests
         public bool DidOnExit;
         public bool DidUpdate;
         public bool DidLateUpdate;
+
+        public DateTime TimeCreated;
+
+        public TestStateA()
+        {
+            TimeCreated = DateTime.UtcNow;
+        }
 
         public bool CanTransition() => false;
         public IState NextState() => default(IState);

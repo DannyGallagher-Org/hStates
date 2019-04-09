@@ -14,6 +14,18 @@ namespace hStates
             _services = services;
         }
 
+        public object GetServiceByString(string s)
+        {
+            try
+            {
+                return _services[s];
+            }
+            catch (KeyNotFoundException)
+            {
+                throw new ApplicationException("The requested service is not registered");
+            }
+        }
+
         public T GetService<T>()
         {
             try

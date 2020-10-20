@@ -16,7 +16,6 @@ F:\CoreProjects\hStates\obj\Debug\hStates.pdb
 F:\CoreProjects\hStates\bin\Debug\hStates.dll
 F:\CoreProjects\hStates\bin\Debug\hStates.pdb
 F:\CoreProjects\hStates\bin\Debug\nunit.framework.dll
-F:\CoreProjects\hStates\bin\Debug\RSG.Promise.dll
 F:\CoreProjects\hStates\bin\Debug\UnityEditor.dll
 F:\CoreProjects\hStates\bin\Debug\UnityEngine.dll
 F:\CoreProjects\hStates\bin\Debug\nunit.framework.pdb

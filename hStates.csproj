@@ -37,9 +37,6 @@
       <HintPath>packages\NUnit.3.11.0\lib\net45\nunit.framework.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="RSG.Promise, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>DLL\RSG.Promise.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml" />
@@ -53,7 +50,6 @@
   <ItemGroup>
     <Compile Include="IEnterState.cs" />
     <Compile Include="IInjectable.cs" />
-    <Compile Include="ILoadSceneBeforeEnterState.cs" />
     <Compile Include="IPausable.cs" />
     <Compile Include="IState.cs" />
     <Compile Include="IUpdateable.cs" />

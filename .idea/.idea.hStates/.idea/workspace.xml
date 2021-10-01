@@ -2,79 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cd02927-17d3-49c5-b6e4-2c2f29554f61" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.hStates/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.hStates/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.hStates/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.hStates/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.hStates/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.hStates/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.hStates/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.hStates/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.hStates/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServiceLocator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ServiceLocator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.hStates/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IEnterState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Interfaces/IEnterState.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IInjectable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Interfaces/IInjectable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IPausable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Interfaces/IPausable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Interfaces/IState.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IUpdateable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Interfaces/IUpdateable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServiceLocator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Code/ServiceLocator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StateMachine.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Code/StateMachine.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StateMachineMonoBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Code/StateMachineMonoBehaviour.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/hStates.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/hStates.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/hStates.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/hStates.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hStates.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/hStates.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hStates.sln" beforeDir="false" afterPath="$PROJECT_DIR$/hStates.sln" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/hStates.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/hStates.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/hStates.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/hStates.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/hStates.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/hStates.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/hStates.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/hStates.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/hStates.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/hStates.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/CHANGES.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/NOTICES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/NUnit.3.11.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/lib/net20/NUnit.System.Linq.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/lib/net20/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/lib/net20/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/lib/net35/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/lib/net35/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/lib/net40/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/lib/net40/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/lib/net45/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/lib/net45/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/lib/netstandard1.4/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/lib/netstandard1.4/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/lib/netstandard2.0/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/lib/netstandard2.0/nunit.framework.xml" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1566687462">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="cs" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="C#" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="cs" value="97" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="C#" value="97" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ServiceLocator.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-              <folding>
-                <marker date="1554837031537" expanded="false" signature="6:47" ph="..." />
-                <marker date="1554837031537" expanded="true" signature="66:1023" ph="{...}" />
-                <marker date="1554837031537" expanded="true" signature="100:1021" ph="{...}" />
-                <marker date="1554837031537" expanded="true" signature="115:209" ph="/* map that contains pairs of interfaces and ... */" />
-                <marker date="1554837031537" expanded="true" signature="342:396" ph="{...}" />
-                <marker date="1554837031537" expanded="true" signature="448:709" ph="{...}" />
-                <marker date="1554837031537" expanded="true" signature="474:539" ph="{...}" />
-                <marker date="1554837031537" expanded="true" signature="580:699" ph="{...}" />
-                <marker date="1554837031537" expanded="true" signature="743:1015" ph="{...}" />
-                <marker date="1554837031537" expanded="true" signature="769:845" ph="{...}" />
-                <marker date="1554837031537" expanded="true" signature="886:1005" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -85,18 +59,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/IPausable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Code/StateMachineMonoBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Code/Interfaces/IPausable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Code/Interfaces/IUpdateable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Code/Interfaces/IEnterState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Code/Interfaces/IInjectable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Code/Interfaces/IState.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/tests/TestStateA.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/IUpdateable.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ServiceLocator.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/tests/TestStateBForPushing.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/IEnterState.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/StateMachine.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/IInjectable.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/StateMachineMonoBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/IState.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ILoadSceneBeforeEnterState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Code/ServiceLocator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/tests/Tests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/tests/TestStateBForPushing.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Code/StateMachine.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -127,6 +100,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectId" id="1yu9RhPnMS4fTOoxhRZJLjkPWdw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -167,36 +141,40 @@
       <pane id="AssemblyExplorer" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/DLL/UnityEngine.dll" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
       <method v="2" />
     </configuration>
     <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
       <method v="2" />
     </configuration>
     <list>
@@ -204,6 +182,7 @@
       <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
     </list>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -222,6 +201,7 @@
       <workItem from="1553943213804" duration="1102000" />
       <workItem from="1554836391140" duration="203000" />
       <workItem from="1554836935699" duration="124000" />
+      <workItem from="1633090608298" duration="111000" />
     </task>
     <task id="LOCAL-00001" summary="hStates Basics">
       <created>1552646421107</created>
@@ -282,14 +262,27 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="hStates Basics" />
     <option name="LAST_COMMIT_MESSAGE" value="hStates Basics" />
   </component>

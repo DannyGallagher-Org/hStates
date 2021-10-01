@@ -1,50 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5cd02927-17d3-49c5-b6e4-2c2f29554f61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.hStates/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.hStates/.idea/contentModel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.hStates/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.hStates/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.hStates/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.hStates/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.hStates/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.hStates/riderModule.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IEnterState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Interfaces/IEnterState.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IInjectable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Interfaces/IInjectable.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IPausable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Interfaces/IPausable.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Interfaces/IState.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IUpdateable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Interfaces/IUpdateable.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServiceLocator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Code/ServiceLocator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StateMachine.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Code/StateMachine.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StateMachineMonoBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Code/StateMachineMonoBehaviour.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/hStates.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/hStates.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/hStates.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/hStates.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hStates.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/hStates.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hStates.sln" beforeDir="false" afterPath="$PROJECT_DIR$/hStates.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/hStates.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/hStates.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/hStates.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/hStates.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/hStates.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/hStates.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/hStates.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/hStates.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/hStates.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/hStates.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/.signature.p7s" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/CHANGES.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/NOTICES.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/NUnit.3.11.0.nupkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/lib/net20/NUnit.System.Linq.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/lib/net20/nunit.framework.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/lib/net20/nunit.framework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/lib/net35/nunit.framework.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/lib/net35/nunit.framework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/lib/net40/nunit.framework.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/lib/net40/nunit.framework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/lib/net45/nunit.framework.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/lib/net45/nunit.framework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/lib/netstandard1.4/nunit.framework.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/lib/netstandard1.4/nunit.framework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/lib/netstandard2.0/nunit.framework.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.11.0/lib/netstandard2.0/nunit.framework.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="5cd02927-17d3-49c5-b6e4-2c2f29554f61" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -201,7 +158,7 @@
       <workItem from="1553943213804" duration="1102000" />
       <workItem from="1554836391140" duration="203000" />
       <workItem from="1554836935699" duration="124000" />
-      <workItem from="1633090608298" duration="111000" />
+      <workItem from="1633090608298" duration="482000" />
     </task>
     <task id="LOCAL-00001" summary="hStates Basics">
       <created>1552646421107</created>

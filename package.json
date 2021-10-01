@@ -1,12 +1,11 @@
 {
-    "name": "com.houseofwire.hStates",
-    "displayName": "hStates",
-    "version": "1.0.0",
-    "unity": "2018.1",
-    "description": "House of Wire state machine for unity use.",
-    "keywords": ["states", "houseofwire", "statemachine"],
-    "category": "States",
-    "dependencies": {
-        
-    }
+  "name": "com.houseofwire.succ",
+  "displayName": "hStates",
+  "version": "1.0.0",
+  "unity": "2018.1",
+  "description": "House of Wire State Machine",
+  "keywords": [ "core", "states", "houseofwire" ],
+  "category": "houseofwire",
+  "dependencies": {
+  }
 }

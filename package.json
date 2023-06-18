@@ -1,7 +1,7 @@
 {
-  "name": "com.houseofwire.hstates",
+  "name": "com.houseofwire.hStates",
   "displayName": "hStates",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "unity": "2018.1",
   "description": "House of Wire State Machine",
   "keywords": [ "core", "states", "houseofwire" ],

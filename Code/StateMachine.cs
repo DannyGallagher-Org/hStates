@@ -45,10 +45,11 @@ namespace hStates
             _storedStateFromPush = CurrentState;
 
             CurrentState = pushState;
-            OnStatePushed?.Invoke(pushState);
             
             var pushEnterState = pushState as IEnterState;
             pushEnterState?.OnEnter();
+			
+            OnStatePushed?.Invoke(pushState);
         }
 
         public void PopState()
@@ -65,7 +66,6 @@ namespace hStates
             CurrentState?.OnExit();
 
             CurrentState = nextState;
-            OnStateChanged?.Invoke(CurrentState);
 
             var injectable = nextState as IInjectable;
             if(_services != null)
@@ -73,6 +73,7 @@ namespace hStates
 
             var enterState = nextState as IEnterState;
             enterState?.OnEnter();
+            OnStateChanged?.Invoke(CurrentState);
         }
 	
         public void OnApplicationPause(bool paused)
